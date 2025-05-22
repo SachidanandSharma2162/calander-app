@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Team Meeting",
+    "date": "2025-05-23",
+    "time": "10:00",
+    "duration": "1h"
+  },
+  {
+    "title": "Lunch with Alex",
+    "date": "2025-05-23",
+    "time": "13:00",
+    "duration": "1h"
+  },
+  {
+    "title": "Project Demo",
+    "date": "2025-05-25",
+    "time": "15:00",
+    "duration": "2h"
+  },
+  {
+    "title": "Yoga Class",
+    "date": "2025-05-26",
+    "time": "07:30",
+    "duration": "1h"
+  },
+  {
+    "title": "Doctor Appointment",
+    "date": "2025-05-26",
+    "time": "09:00",
+    "duration": "1h"
+  },
+  {
+    "title": "Interview with TechCorp",
+    "date": "2025-06-26",
+    "time": "14:00",
+    "duration": "1h"
+  },
+  {
+    "title": "Call with Investor",
+    "date": "2025-05-27",
+    "time": "11:00",
+    "duration": "30m"
+  },
+  {
+    "title": "Parent-Teacher Meeting",
+    "date": "2025-06-28",
+    "time": "16:00",
+    "duration": "1h"
+  },
+  {
+    "title": "Workshop: AI in 2025",
+    "date": "2025-05-29",
+    "time": "10:00",
+    "duration": "2h"
+  },
+  {
+    "title": "Code Review",
+    "date": "2025-05-29",
+    "time": "13:00",
+    "duration": "1h"
+  },
+  {
+    "title": "Team Building Activity",
+    "date": "2025-05-29",
+    "time": "17:00",
+    "duration": "2h"
+  },
+  {
+    "title": "Coffee Chat with Maya",
+    "date": "2025-05-30",
+    "time": "11:00",
+    "duration": "1h"
+  },
+  {
+    "title": "Submit Report",
+    "date": "2025-05-30",
+    "time": "17:00",
+    "duration": "30m"
+  },
+  {
+    "title": "Weekend Hike",
+    "date": "2025-05-31",
+    "time": "08:00",
+    "duration": "4h"
+  }
+]
