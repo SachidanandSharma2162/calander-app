@@ -1,12 +1,42 @@
-# React + Vite
+# 📅 React Calendar App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive calendar web application built with **React**, **Tailwind CSS**, and **Day.js**, inspired by Google Calendar.
 
-Currently, two official plugins are available:
+This project was created as part of a Frontend Labs assignment.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔥 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📆 Monthly calendar view with smooth navigation
+- 📌 Displays events from a static JSON file
+- ✨ Highlights today's date
+- 🎨 Color-coded overlapping events
+- 📱 Responsive & modern UI
+- ⚡ Fast build with Vite
+
+---
+
+## 🚀 Live Demo
+
+👉 [View Live Calendar](https://your-live-link.netlify.app)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Tailwind CSS**
+- **Day.js**
+- **Vite**
+- [Optional] **Lucide Icons**
+
+---
+
+## 🧪 How to Run Locally
+
+```bash
+git clone https://github.com/SachidanandSharma2162/calendar-app.git
+cd calendar-app
+npm install
+npm run dev
